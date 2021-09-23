@@ -1,0 +1,4 @@
+#Thu Sep 23 17:03:39 EET 2021
+base.0=D\:\\flutter\\todo_app\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
